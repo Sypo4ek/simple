@@ -1,6 +1,6 @@
 {
   "main": "src/index.tsx",
-  "name": "react-starter-split-webpack-5-ts",
+  "name": "volga",
   "config": {
     "dev": "--config __webpack__/dev.config.js",
     "prod": "--config __webpack__/prod.config.js"
