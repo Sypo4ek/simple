@@ -7,7 +7,6 @@
   },
   "version": "1.0.0",
   "description": "Volga",
-  "homepage": "https://github.com/Cere8ellum/react-starter-split-webpack-5-ts#readme",
   "author": "Lukiyanov",
   "scripts": {
     "webpack-config-dev": "nodemon --watch \"./__webpack__/*\" --exec npm run start-dev",
